@@ -2,6 +2,9 @@
 
 /**
  * MailChimp 1.3 API integration
+ * 
+ * Please note that this is the class taken from the MailChimp website.
+ * I have simply amended it to work within the CodeIgniter framework
  *
  * @package		MCAPI
  * @subpackage	Libraries
@@ -9,6 +12,8 @@
  * @author		BIOSTALL (Steve Marks)
  * @link		http://biostall.com
  */
+
+
 
 class MCAPI {
 	
